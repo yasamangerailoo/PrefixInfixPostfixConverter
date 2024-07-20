@@ -24,6 +24,3 @@
     ```
 4. Enter the type of expression (infix, postfix, prefix) and the expression.
 5. The results will be displayed and saved to `dsproject.c`.
-
-## Example
-For the infix expression:
